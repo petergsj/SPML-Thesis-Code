@@ -1,0 +1,1 @@
+Accuracy: 0.6708074534161491Template 1 Accuracy: 0.0Template 2 Accuracy: 1.0Template 3 Accuracy: 0.3333333333333333Template 4 Accuracy: 0.21052631578947367Template 5 Accuracy: 0.875Template 6 Accuracy: 0Template 7 Accuracy: 0.6666666666666666Template 8 Accuracy: 0.8695652173913043Template 9 Accuracy: 0.8Template 10 Accuracy: 1.0Template 11 Accuracy: 0Template 12 Accuracy: 0
